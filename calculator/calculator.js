@@ -1,0 +1,3 @@
+function tryItOut(){
+    alert("Awesome")
+}
